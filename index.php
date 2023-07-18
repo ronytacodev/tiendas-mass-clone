@@ -18,6 +18,22 @@
     </div>
 </section>
 
+<section class="banner-two">
+    <div class="texto">
+        <div>
+            <h3>¡MIRA MIS PRECIOS!</h3>
+            <p>Caser@, yo tengo siempre los mejores precios, y además, cerquita a tu hogar.</p>
+        </div>
+        <div>
+            <p>¡No te pierdas los mejores precios del barrio aquí!</p>
+        </div>
+        <button>QUIERO VER</button>
+    </div>
+    <div class="image">
+        <img src="images/banner-two.png" alt="">
+    </div>
+</section>
+
 <section id="tiendaMass" class="tienda-mass">
     <div class="group-text-tienda">
         <h3> Tiendas Mass</h3>
