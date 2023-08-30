@@ -9,7 +9,7 @@
                 <span>CATÁLOGO</span>
                 !
             </h1>
-            <p class="catalog-text">Aquí encontrarás los productos que tu familia necesita ¡con los mejores precios!</p>
+            <p class="catalog-text">Aquí encontrarás los productos que tu familia necesita ¡¡con los mejores precios!!</p>
             <a href="catalog.php" class="btn-catalog"><span class="btn-content">Ver Catálogo</span></a>
         </div>
         <div class="products">
