@@ -13,7 +13,7 @@
             <a href="catalog.php" class="btn-catalog"><span class="btn-content">Ver Catálogo</span></a>
         </div>
         <div class="products">
-            <img src="images/catalog-products.png" alt="catalog-products">
+            <img src="images/catalog-products.png" alt="catalog-productss">
         </div>
     </div>
 </section>
